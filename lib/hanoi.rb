@@ -1,5 +1,5 @@
 require "hanoi/version"
-
+require "typhoeus"
 module Hanoi
   class Hanoi
     def self.set
