@@ -1,5 +1,10 @@
 require "hanoi/version"
 
 module Hanoi
-  # Your code goes here...
+  class Hanoi
+     def set
+       puts "Works"
+     end
+     end
+  end
 end
