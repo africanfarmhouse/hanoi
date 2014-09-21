@@ -3,7 +3,7 @@ require "hanoi/version"
 module Hanoi
   class Hanoi
     def self.set
-       "Works"
+      Typhoeus.get("www.yahoo.com", followlocation: true)
     end
   end
 end
