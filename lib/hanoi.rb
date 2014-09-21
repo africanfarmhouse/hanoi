@@ -2,8 +2,8 @@ require "hanoi/version"
 
 module Hanoi
   class Hanoi
-     def set
-       puts "Works"
-     end
+    def self.set
+       "Works"
+    end
   end
 end
