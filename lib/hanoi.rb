@@ -5,6 +5,5 @@ module Hanoi
      def set
        puts "Works"
      end
-     end
   end
 end
